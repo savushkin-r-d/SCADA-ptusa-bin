@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<rules xmlns:rules="http://savushkin.by/rules/">
+  <rules:name>MRU</rules:name>
+  <rules:build>2</rules:build>
+  <rules:fileversion>1</rules:fileversion>
+  <rules:users>
+    <rules:user>
+      <rules:login>USER</rules:login>
+      <rules:fio/>
+      <rules:password/>
+      <rules:priority>10</rules:priority>
+      <rules:editmode>0</rules:editmode>
+    </rules:user>
+  </rules:users>
+  <rules:projects/>
+</rules>
